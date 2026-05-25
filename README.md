@@ -1,8 +1,8 @@
-# 🌐 Portfolio Website
+#  Portfolio Website
 
 This is my beginner portfolio website project created using HTML and CSS.
 
-## 🚀 Features
+##  Features
 
 - Responsive Design
 - Navigation Bar
@@ -12,29 +12,28 @@ This is my beginner portfolio website project created using HTML and CSS.
 - Projects Section
 - Contact Section
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+##  Project Structure
 
 Portfolio.website
-│
-├── index.html
-└── style.css
+index.html
+style.css
 
-## 🎯 Purpose
+##  Purpose
 
 I created this project to practice frontend web development and improve my HTML & CSS skills.
 
-## 📸 Screenshot
+##  Screenshot
 
 
-## 🔗 Live Demo
+##  Live Demo
 
 
-## 👨‍💻 Author
+##  Author
 
 Soumya Singh
 B.Tech CSE Student
